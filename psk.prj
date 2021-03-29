@@ -1,0 +1,22 @@
+;;; VLisp project file [V2.0] psk saved to:[D:/Profile/desktop/dd3] at:[3/3/21] 
+(VLISP-PROJECT-LIST
+  :name
+  psk
+  :own-list
+  ("functions"
+    "bst"	    "comp"	    "comp-fit"	    "comp-path"
+    "comp-port"	    "comp-key"	    "comp-keypack"  "drawlib"
+    "editor"	    "propertyedit 2-1"		    "visualizing"
+    "analysis"	    "bom"	    "command"	    "menu"
+    "config"	    "splash"
+   )
+  :fas-directory
+  "./bin"
+  :tmp-directory
+  "./tmp"
+  :project-keys
+  (:BUILD (:standard) :MERGED T :SAFE-MODE T :MSGLEVEL 1)
+  :context-id
+  :AUTOLISP
+)
+;;; EOF
